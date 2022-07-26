@@ -2,7 +2,7 @@
 TP Final del curso de "Big Data", brindado por "Codo a Codo".
 Periodo: Enero-Julio 2022
 
-Ejemplo de ventas de diferentes productos en distintos paises, para hacer analisis de los datos, mediante el uso de Deepnote y comandos de: Numpy, Pandas, Matplotlib, Seaborn.
+Ejemplo de ventas de diferentes productos en distintos paises, para hacer analisis de los datos, mediante el uso de Deepnote y librerias: Numpy, Pandas, Matplotlib, Seaborn.
 
 # Autor
 Vittoria Del Signore
