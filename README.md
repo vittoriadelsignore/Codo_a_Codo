@@ -13,3 +13,8 @@ orders.csv.
 seller.xlsx.
 
 articles.db. 
+
+# Certificado
+
+![Certificado Codo a Codo Jul'22](https://github.com/vittoriadelsignore/Codo_a_Codo/blob/master/Certificado%20Codo%20a%20Codo%20-%20Big%20Data.pdf)
+
